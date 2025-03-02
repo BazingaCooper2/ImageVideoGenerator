@@ -1,2 +1,5 @@
-# ImageVideoGenerator
-for the hackathon but we can build it
+<<<<<<< HEAD
+Your changes here...
+=======
+Remote changes here...
+>>>>>>> origin/main
